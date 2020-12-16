@@ -5,7 +5,7 @@ Il faut tout d'abord installer le package :
 
 ```{r}
 devtools::install_github("CamilleBrechoteau/modeleSchellingProjet")
-library(schellingModel)
+library(modeleSchellingProjet)
 ```
 
 ONE.SIMU prend en parmètre :
